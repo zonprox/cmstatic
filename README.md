@@ -1,0 +1,2 @@
+# cmstatic
+CM Static
