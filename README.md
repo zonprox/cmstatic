@@ -1,2 +1,1 @@
-# cmstatic
-CM Static
+# CM Static
